@@ -1,6 +1,6 @@
 ## C (Programming Language) 
 
-##### Q1. Which Code saple will eventually cause the computer to run out of memory ?
+##### Q1. Which Code sample will eventually cause the computer to run out of memory ?
 - [x] 
   ```c
   while(1)
