@@ -545,6 +545,7 @@ Note: None of the above options appear to be correct. A correct answer would be 
 - [ ] variance: "-0.0823"
 - [ ] "variance": "\-0.0823"
 - [ ] variance: -0.0823
+**NONE OF THESE ARE CORRECT A CORRECT ANSWER WOULD LOOK LIKE `"variance": -0.0823`**
 
 #### Q46. With what character should key/value pairs be separated?
 - [x] colon
@@ -553,10 +554,10 @@ Note: None of the above options appear to be correct. A correct answer would be 
 - [ ] comma
 
 #### Q47. What character separates keys from values?
-- [ ] `:`
+- [x] `:`
 - [ ] `->`
 - [ ] `::`
-- [x] `.`
+- [ ] `.`
 
 #### Q48. If a string contains line breaks, what should you do?
 - [ ] Wrap line breaks in single quotation marks
