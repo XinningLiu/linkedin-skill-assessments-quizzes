@@ -102,10 +102,10 @@ struct s {
     struct s *s2;
 };
 ```
-- [x] a node
+- [ ] a node
 - [ ] a linked list
 - [ ] a stack
-- [ ] a binary tree
+- [x] a binary tree
 
 #### Q7. A C header file is a file with extension .h that contains function declarations and macro definitons to be shared between several source files. Header files are listed using the preprocessing directive #include, and can have one of the following formats: #include &lt;fileA&gt; or #include "fileB". What is the difference between these two formats?
 - [ ] The preprocessor will try to locate the fileA in same directory as the source file, and the fileB in a predetermined directory path.
